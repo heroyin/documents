@@ -1,6 +1,6 @@
 # 深圳朗麓家园足球俱乐部
 
-[全家福照片] 
+![image](https://github.com/heroyin/documents/raw/master/quanjiafu.jpg)
 
 深圳朗麓家园足球俱乐部是南山西丽片区一家大型的社区业余足球俱乐部，成立于2016年3月，为深圳业余足球界的新生力量。球队主场设立在风景优美的塘朗山脚，南科大二小足球场。
 
@@ -18,7 +18,7 @@
 
 ### 队服
 
-[球衣]
+
 
 ## 队员
 
@@ -30,8 +30,25 @@
 
 深圳皇马球迷协会成员，作为足球场上少有的女流，有巾帼不让须眉的气概，精通各种运动项目，足球、篮球、羽毛球、乒乓球。最为球队的精神领袖，在球队拥有崇高的威望。
 
+### 领队 大飞哥
+
+喝酒只喝土炮，踢球只干后腰，麻将只爱放炮，泡妞只要老鸨，西丽的小江湖流传着大飞哥的小小传说。在西丽没有叫一声大飞哥解决不了的麻烦，如果有，请叫两声！
+
 ## 加入我们
+
+莫叹青春不再，且看郎麓众才，驰骋茵茵绿地，醉卧塘朗山脚。
 
 QQ群：370190191
 微信群：[二维码]
+
+## 活动剪影
+
+![image](https://github.com/heroyin/documents/raw/master/chuyou.jpg)
+
+![image](https://github.com/heroyin/documents/raw/master/majiang.jpg)
+
+![image](https://github.com/heroyin/documents/raw/master/jucan.jpg)
+
+![image](https://github.com/heroyin/documents/raw/master/team_girls.jpg)
+
 
