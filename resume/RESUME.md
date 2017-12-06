@@ -54,7 +54,6 @@
 - 语言：JAVA/C++/delphi/ruby/javascript/QT
 - Android：UI/Gradle/Dalvik/Plugin/Hotfix
 - Windows：Win32 API/GDI+/QT/VCL/MFC
-- 数据库相关：SQLite/MySQL/Mongodb/Redis
 - 项目管理工具：Svn/Git/Jira/Confluence/Redmine/Jenkins/gitlab
 - 开发工具：AndroidStudio/Eclipse/RubyMine/VisualStudio/Delphi/QtCreator
 - 网络协议：TCP/IP/XMPP/HTTP/SIP/STUN
