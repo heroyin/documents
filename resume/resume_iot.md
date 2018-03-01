@@ -48,7 +48,7 @@
 # 技能清单
 - 语言：JAVA/C++/delphi/ruby/javascript/QT
 - Android：UI/Gradle/Dalvik/Plugin/Hotfix
-- 物联网：RFID/Spark/Hadoop/RabbitMQ
+- 物联网：RFID/Spark/Kafka/RabbitMQ
 - Windows：Win32 API/GDI+/QT/VCL/MFC
 - 项目管理工具：Svn/Git/Jira/Confluence/Redmine/Jenkins/gitlab
 - 开发工具：AndroidStudio/Eclipse/RubyMine/VisualStudio/Delphi/QtCreator
