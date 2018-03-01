@@ -12,7 +12,7 @@
 # 个人信息
 
  - 尹炬/男/1980 
- - 专科/中南大学-计算机应用
+ - 专科/中南大学-计算机应用（1999-2002）
  - 工作年限：13年 
  - 技术博客：http://blog.csdn.net/hero_yin
  - GitHub: http://github.com/heroyin
