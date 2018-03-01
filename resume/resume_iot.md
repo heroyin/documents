@@ -14,7 +14,6 @@
  - 尹炬/男/1980 
  - 专科/中南大学-计算机应用
  - 工作年限：13年 
- - Android：4年
  - 技术博客：http://blog.csdn.net/hero_yin
  - GitHub: http://github.com/heroyin
  - 期望城市：深圳
@@ -48,7 +47,7 @@
 # 技能清单
 - 语言：JAVA/C++/delphi/ruby/javascript/QT
 - Android：UI/Gradle/Dalvik/Plugin/Hotfix
-- 物联网：RFID/Spark/Kafka/RabbitMQ
+- 物联网：RFID/Spark/Kafka/RabbitMQ/SiteWhere
 - Windows：Win32 API/GDI+/QT/VCL/MFC
 - 项目管理工具：Svn/Git/Jira/Confluence/Redmine/Jenkins/gitlab
 - 开发工具：AndroidStudio/Eclipse/RubyMine/VisualStudio/Delphi/QtCreator
