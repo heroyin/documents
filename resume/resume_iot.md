@@ -30,7 +30,7 @@
 - 设计即时通讯服务器架构，采用微服务框架（Spring cloud），Spring Security为验证中心，缓存系统采用了redis，通讯服务基于openfire开发，负载均衡使用Ribbon，Hystrix提供容错支持。
 - 基于标准c++开发了xmpp通讯sdk，跨平台设计，可以工作在Windows，Linux，MacOS，Android平台下
 - 设计P2P网络，用于客户端VOIP通讯，以及文件传输
-- 搭建大数据平台，通过物联网技术采集手机/PC终端用户的设备数据以及聊天信息存入NOSQL数据库MongoDB，再通过Spark处理信息，为企业提供决策支持。
+- 搭建大数据平台，通过物联网技术采集终端用户的设备数据以及聊天信息存入MongoDB，再通过Spark处理信息，为企业提供决策支持。
 
 ### 如意通项目 
 如意通（ http://www.rooyeetone.com ）是一个基于XMPP协议的即时通讯产品，主要面对企业即时通讯市场。我负责协议设计规划，各个平台的客户端（PC,Android,IOS）研发，以及研发团队建设。产品成功到应用到了各类公司行业，如：华润集团，美的集团，中国邮储银行等。
