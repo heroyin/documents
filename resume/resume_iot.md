@@ -5,7 +5,6 @@
 
 - 手机：13537550750
 - Email：heroyin@gmail.com 
-- QQ：7878906
 
 ---
 
@@ -22,7 +21,7 @@
 
 # 工作经历
 
-## 深圳如意通科技有限公司 （2006年9月 ~ 至今 ）
+## 深圳如意通科技有限公司-研发部 （2006年9月 ~ 2018年4月 ）     架构师
 
 - 负责团队建设，研发流程设计，从零开始组建了包括服务器端，客户端，测试，美工在内的十余人团队
 - 为公司翻译了XMPP基础协议RFC6120-6122，部分XEP扩展协议，基于xmpp协议设计的私有扩展协议30余篇
@@ -43,14 +42,22 @@
 ### 广东省广电IMS项目
 广电项目中即时通讯是其中的一个增值服务，除了提供基础的即时通讯服务外，需要客户端和IMS对接，为用户提供VOIP服务。我主要负责IMS的客户端（包括PC，Android，IOS）SDK开发，产品成功接入广电IMS网络，实现了与电话，机顶盒，视讯会议等服务的通讯。
 
+## 宇通客车股份有限公司-云平台部（2018年4月 ~ 至今）
+
+- 负责宇通客车云平台V3.0架构设计工作，服务与宇通客车在国内外运行的所有客车及设备以及企业的IOT设备，目前接入了几十万终端设备，QPS达20W，单月存储的数据达十几T
+- 负责实时流处理平台（Spark）的设计和研发，通过灵活的脚本及插件方式扩展业务，满足业务部门的定制需求
+- 负责引入DEVOPS的方法，改进研发、测试和运维的效率
+- 负责大数据平台的搭建，优化，关键组件的设计和研发
+
 ---
 # 技能清单
 - 语言：JAVA/C++/delphi/ruby/javascript/QT
 - Android：UI/Gradle/Dalvik/Plugin/Hotfix
 - 物联网：RFID/Spark/Kafka/RabbitMQ/SiteWhere
+- 大数据：Spark/Flink/HBase/Phoenix/Hadoop
 - Windows：Win32 API/GDI+/QT/VCL/MFC
 - 项目管理工具：Svn/Git/Jira/Confluence/Redmine/Jenkins/gitlab
 - 开发工具：AndroidStudio/Eclipse/RubyMine/VisualStudio/Delphi/QtCreator
 - 网络协议：TCP/IP/XMPP/HTTP/SIP/STUN
 - 安全：TLS/SASL/SQL Injection/ProGuard 
-- 操作系统：Windows/linux
+- 操作系统：Windows/linux/MacOS
